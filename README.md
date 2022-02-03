@@ -1,5 +1,5 @@
 <h1>Visualização Desktop</h1>
-<img src= "https://media-exp1.licdn.com/dms/image/C4D22AQH1GZPGWyLx0w/feedshare-shrink_2048_1536/0/1627708283204?e=1636588800&v=beta&t=GVCBFgD-6ejomsmGdHobseOthATWEpR8PmzMszQFMyY" width="800px" height"400px">
+<img src= "https://media-exp1.licdn.com/dms/image/C4D2DAQGAMf3zLFCBNQ/profile-treasury-image-shrink_800_800/0/1627812038715?e=1643958000&v=beta&t=gKtWEU7YBbAYdaJWNEYo41oIckHTZkhbhbk9jM1q2_g" width="800px" height"400px">
 
 Aqui criei uma tela de login responsiva para 4 modelos diferentes de tablets e 9 de celulares usando HTML e CSS puro. </br>
 Também fiz uma breve leitura sobre UI (User Interface) e apliquei.

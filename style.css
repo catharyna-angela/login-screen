@@ -14,7 +14,7 @@ div {
    background-color: #f1e7e8;
    float: left;
    width: 55%;
-   height: 912px;
+   min-height: 100vh;
    border-radius: 0 40px 40px 0; 
 }
 
@@ -117,7 +117,7 @@ h3{
       position: relative;
       top: 50px;
       width: 100%;
-      height: auto;
+      min-height: 100vh;
       border-radius: 60px 60px 0 0;
    }
    
